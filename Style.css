@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: black;
+  }
+  p {
+    color: black;
+  }
+#header{background-color:white;
+width: 1000px;}
+#header h3{color :pink}
+
+#header .clasa1 a{color:yellow}
+#header .clasa2 a{color:pink}
+
+#header .clasa1  a:hover{color:green}
+
+.clasa3 p:first-child{color:cyan;} 
+.clasa3 p:nth-child(3){color:darkgreen;}
